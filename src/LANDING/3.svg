@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F39323;stroke:#F39323;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:#F9EA32;}
+	.st2{fill:#020203;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'AnjaElianeaccent-Nornal';}
+	.st5{font-size:62.9248px;}
+	.st6{fill:#343434;}
+	.st7{font-size:44.3205px;}
+</style>
+<path class="st0" d="M971.45,672.29H27.64c-15.77,0-28.55-12.78-28.55-28.55V239.17c0-15.77,12.78-28.55,28.55-28.55h943.81
+	c15.77,0,28.55,12.78,28.55,28.55v404.58C1000,659.51,987.22,672.29,971.45,672.29z"/>
+<g>
+	<polygon class="st1" points="497.71,396.91 589.97,396.91 543.84,317.02 497.71,237.12 451.59,317.02 405.46,396.91 	"/>
+	<path class="st2" d="M589.97,404.36h-184.5c-2.66,0-5.13-1.42-6.46-3.73c-1.33-2.31-1.33-5.15,0-7.46l92.25-159.78
+		c1.33-2.31,3.79-3.73,6.46-3.73c2.66,0,5.13,1.42,6.46,3.73l92.25,159.78c1.33,2.31,1.33,5.15,0,7.46
+		C595.09,402.94,592.63,404.36,589.97,404.36z M418.38,389.45h158.67l-79.34-137.41L418.38,389.45z"/>
+</g>
+<g>
+	<path class="st2" d="M496.65,352.52c-4.12,0-7.46-3.34-7.46-7.46v-72.61c0-4.12,3.34-7.46,7.46-7.46c4.12,0,7.46,3.34,7.46,7.46
+		v72.61C504.11,349.18,500.77,352.52,496.65,352.52z"/>
+</g>
+<circle class="st2" cx="496.65" cy="368.42" r="7.19"/>
+<text transform="matrix(1 0 0 1 335.4712 473.9785)"><tspan x="0" y="0" class="st3 st4 st5">ACCIDENT</tspan><tspan x="-88.73" y="75.51" class="st3 st4 st5">RABAT-TANGER</tspan><tspan x="19.56" y="151.02" class="st3 st4 st5">ROUTE 1</tspan></text>
+<path class="st6" d="M740.17,780.48H255.23c-8.88,0-16.07-7.19-16.07-16.07v-94.73h515.56c0.84,0,1.52,0.68,1.52,1.52v93.22
+	C756.24,773.28,749.04,780.48,740.17,780.48z"/>
+<text transform="matrix(1 0 0 1 403.4463 740.3691)" class="st3 st4 st7">IGNORE</text>
+</svg>
